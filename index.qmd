@@ -1,5 +1,10 @@
 ---
 title: ""
+image: photo_Pablo_Rodriguez.jpeg
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
 ---
 
 Hi !
